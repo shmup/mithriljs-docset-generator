@@ -6,6 +6,8 @@
 
 on my system it's in: `$HOME/.local/share/Zeal/Zeal/docsets/`
 
+![image](https://user-images.githubusercontent.com/118710/183836444-75fcb19b-7e44-412e-8d6d-766f8a895ce8.png)
+
 ----
 
 Based off of a [gist](https://gist.github.com/shabbyrobe/c0131998cbfa43f0bc01a376c23c0ced) by [shabbyrobe](https://github.com/shabbyrobe)
